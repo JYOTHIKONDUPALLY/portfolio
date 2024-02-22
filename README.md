@@ -1,4 +1,5 @@
 ## Profile:
+[Visit My Website](https://my-profile-8o730dpcq-annem-jyothis-projects.vercel.app)
 
 **Designation:** Fullstack Developer
 
@@ -22,4 +23,5 @@
 2. **Qtrip:** A traveling website
 3. **Xboard:** A news app
 
-   ## deployed link:http://192.168.56.1:3000/
+
+
