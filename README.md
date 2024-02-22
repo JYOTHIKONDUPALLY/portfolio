@@ -21,3 +21,5 @@
 1. **Qkart:** An e-commerce website
 2. **Qtrip:** A traveling website
 3. **Xboard:** A news app
+
+   ## deployed link:http://192.168.56.1:3000/
