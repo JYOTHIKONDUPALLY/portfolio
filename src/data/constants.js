@@ -118,36 +118,53 @@ export const experiences =
         "REST API"
       ]
     }
+  
+export const education=[
+      {
+        id: 0,
+img: "https://images.yourstory.com/cs/images/companies/logosC331575976264625png",
+date: "jan 2023 - feb 2024",
+degree: "Fellowship program in FullStack developement",
+school:"Crio.Do",
+desc:"I have honed my frontend skills and transitioned into a full-stack developer through participation in the Crio.Do online fellowship program, mastering the MERN stack including React, Node.js, MongoDB, and Express.js. Additionally, I have gained proficiency in frameworks such as Bootstrap and Material UI, as well as advanced JavaScript concepts."
+    },
+    {
+      id: 1,
+img: "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Sri_Venkateswara_University_logo.png/220px-Sri_Venkateswara_University_logo.png",
+date: "july 2015 - june 2019",
+grade: "7.9 CGPA",
+degree: "Bachelor of Technology - BTech, Chemical Engineering",
+school:"Sri Venkateshwara University College of engineering-Tirupathi",
+desc:"I completed my Bachelor of Technology (BTech) in Chemical Engineering from Sri Venkateswara University College of Engineering-Tirupathi with a CGPA of 7.9, graduating in June 2019. During my tenure from July 2015 to June 2019, I acquired a comprehensive understanding of chemical engineering principles and their practical applications."
+  }
+    ]
 
-    export const education=
-        {
+        
+export const TimeLineData = [
+      { year: 2024, text: "Open to work as full stack developer " , img:"https://t3.ftcdn.net/jpg/03/64/90/68/360_F_364906832_3CWsp5oXzh8oauRKz7SYtPfCZ57JfESZ.jpg", alt:"open to work"},
+      { year: 2023, text: "Started working on my skills with the help of online platform called Crio.Do ", img:"https://images.yourstory.com/cs/images/companies/logosC331575976264625png", alt:"working in crio.do" },
+      { year: 2022, text: "Took Maternity break ", img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HnNmbVwAIjOy3j74C7Wxj-XDi1FiU76fW_NIXDMmI9xqzyEesbKz7WycybFYK-o6ndw&usqp=CAU", alt:"maternity Break" },
+      { year: 2020, text: "Completed trainning in China and started to working in projects",img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQILBtXhyZwD9JXWG0T1-0G17eST6-26rzabSkKxmlO56CpagqQqvYGmIw8yOU8bxc14Q&usqp=CAU", alt:"working" },
+      { year: 2019, text: "completed my graduation and started working in TCL CSOT", img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXq5A8wyAqTg5rQ9KFvz6UDSEltTK3NXm6MfITl5NffoxPBqZw23YYRbTpmTYkwqLFeuc&usqp=CAU", alt:"graduation completion" },
+   
+      
+      
+     
+    ];
+
+
+export const projects=[ 
+            {
             id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Sri_Venkateswara_University_logo.png/220px-Sri_Venkateswara_University_logo.png",
-    date: "july 2015 - june 2019",
-    grade: "7.9 CGPA",
-    degree: "Bachelor of Technology - BTech, Chemical Engineering",
-        }
-
-        export const TimeLineData = [
-            { year: 2019, text: "completed my graduation and started working in TCL CSOT" },
-            { year: 2020, text: "Completed trainning in China and started to working in projects" },
-            { year: 2022, text: "Took Maternity break " },
-            { year: 2023, text: "Started working on my skills with the help of online platform called Crio.Do " },
-            { year: 2024, text: "Open to work as full stack developer " },
-          ];
-
-
-           export const Projects=[ {
-            id: 0,
-            title: "KQart",
+            title: "KQart-frontend",
             date: "July 2023",
             description:
               "QKart is an e-commerce application offering a variety of products for customers to choose buy and get delivered to their required address ",
             image:
-              "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
             tags: ["React Js", "React-Router", "Material UI", "React Hooks", "Form", "Responsive Design"],
-            category: "Frontend",
-            github: "https://github.com/CrioDo/jyothikondupally-ME_QKART_FRONTEND_V2",
+            category: "frontend",
+            github: "https://github.com/JYOTHIKONDUPALLY/Ecommmerce-Website",
             Link: "https://6519119211d6341f2fa7990f--qkart-frontend-ecommerce-website.netlify.app/",
           },
           {
@@ -157,9 +174,62 @@ export const experiences =
             description:
               "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.  ",
             image:
-              "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/0ba0c306-851a-451e-89bb-623289fca9a3.png",
             tags: ["Bootstrap","JavaScript","Conditional Rendering","Event Handling","HTML","CSS","REST","ES6", "Responsive Design"],
-            category: "Frontend",
+            category: "frontend",
+            github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
+            Link: "https://jyothi-qtrip-dynamic.netlify.app/",
+          },
+          {
+            id: 2,
+            title: "Xboard",
+            date: "May-June 2023",
+            description:
+              "XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f7dfc8ad-a174-4d2b-8af7-c1ff1e1e8719.png",
+            tags: ["HTML", "Css","Bootstrap","JavaScript","DOM Manipulation","JSON","REST","ES6", "Netlify"],
+            category: "frontend",
+            github: "https://github.com/JYOTHIKONDUPALLY/jyothikondupally-ME_BUILDOUT_XBOARD",
+            Link: "https://chipper-dragon-c5e7d0.netlify.app/",
+          },
+          {
+            id: 3,
+            title: "Qkart-backend",
+            date: "dec 2023",
+            description:
+              "Build the complete set of REST APIs for an E-commerce application, Creating user account and access tokens for registration of new user, Authenticating user to allow login, Adding products to cart, Reading and updating users shipping address, Checking out products in user cart",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
+            tags: ["node js", "mongodb", "Express js", "Postman"],
+            category: "backend",
+            github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
+            Link: "https://jyothi-qtrip-dynamic.netlify.app/",
+          },
+          {
+            id: 4,
+            title: "KQart",
+            date: "mar 2024",
+            description:
+              "QKart is an e-commerce application offering a variety of products for customers to choose buy and get delivered to their required address ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
+            tags: ["React Js", "React-Router", "Material UI", "React Hooks", "Form", "Responsive Design"],
+            category: "fullStack",
+            github: "https://github.com/JYOTHIKONDUPALLY/Ecommmerce-Website",
+            Link: "https://6519119211d6341f2fa7990f--qkart-frontend-ecommerce-website.netlify.app/",
+            
+          },
+          {
+            id: 5,
+            title: "Qtify",
+            date: "septemebr 2023",
+            description:
+              "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface. ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f5c1998d-d5ae-401b-9874-3a623ac95129.png",
+            tags: ["Bootstrap","JavaScript","Conditional Rendering","Event Handling","HTML","CSS","REST","ES6", "Responsive Design", "swiper"],
+            category: "frontend",
             github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
             Link: "https://jyothi-qtrip-dynamic.netlify.app/",
           },]

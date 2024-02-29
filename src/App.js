@@ -5,7 +5,12 @@ import Hero from "./Components/HeroSection/index";
 import Skills from "./Components/Skills/index";
 import Navbar from "./Components/Navbar/index";
 import Education from "./Components/Education/index";
-import { BrowserRouter, BrowserRouter as Router} from "react-router-dom";
+import Experience from "./Components/Experience/index";
+import Projects from "./Components/Projects/index";
+import { BrowserRouter, } from "react-router-dom";
+import TimeLines from './Components/TimeLine';
+import Footer from './Components/Footer';
+
 
 const Body=styled.div`
 background-color:${({theme})=>theme.bg};
@@ -29,8 +34,14 @@ function App() {
     <Hero/>
     <Wrapper>
     <Skills/>
-    <Education/>
+    <Experience/>
     </Wrapper>
+    <Projects/>
+    <Wrapper>
+    <Education/>
+    <TimeLines/>
+    </Wrapper>
+ <Footer/>
     </Body>
     </BrowserRouter>
     

@@ -59,7 +59,7 @@ justify-content:center;
 align-items:center;
 gap:32px;
 list-style:none;
-@media screen and (max-width:768px){
+@media screen and (max-width:640px){
   display:none;
 }`;
 
@@ -83,8 +83,9 @@ padding:0 6px;
 @media screen and (max-width:640px){
   display:none;
 }`;
-const GitHubButton=styled.button`
+const GitHubButton=styled.a`
 background-color:transparent;
+text-decoration:none;
 color:${({theme})=>theme.primary};
 border:1.8px solid ${({theme})=>theme.primary};
 border-radius:20px;
@@ -110,7 +111,7 @@ padding:0 4px;
 font-weight:bold;
 font-size:18px;
 `
-const MobileMenu=styled.div`
+const MobileMenu=styled.ul`
 display:flex;
 flex-direction:column;
 justify-content:center;
@@ -124,14 +125,14 @@ background:${({theme})=>theme.card_light+99};
 transition:all 0.3 ease -in-out;
 transform:${({open})=>open?"translateX(0)":"translateX(100%)"};
 border-radius: 0 0 20 20px;
-opactity:${({open})=>open? "1":"0"};
+opacity:${({open})=>open? "1":"0"};
 z-index:${({open})=>open?"1":"-1"};
 @media screen and(max-width:640px){
   display:none;
 }
 `
 
-const MobileMenuLinks=styled(LinkR)`
+const MobileMenuLinks=styled.a`
 color:${({theme})=>theme.text_primary};
 font-weight:500;
 cursor:pointer;
@@ -162,7 +163,7 @@ const Navbar = () => {
   return (
     <Nav>
 <NavContainer>
-  <NavLogo to="/"><a style={{ display:"flex", alignItems:"center", color:"white",marginBottom:"20",cursor:"pointer"}}><DiCssdeck size="3rem"/><Span>Logo</Span></a></NavLogo>
+  <NavLogo to="/"><a style={{ display:"flex", alignItems:"center", color:"white",marginBottom:"20px",cursor:"pointer"}}><DiCssdeck size="3rem"/><Span>Logo</Span></a></NavLogo>
   <MobileIcon>
     <FaBars onClick={(()=>setOpen(!open))}/>
   </MobileIcon>

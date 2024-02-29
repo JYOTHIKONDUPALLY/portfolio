@@ -20,29 +20,6 @@ import HeroImage from "../../images/photo-1.jpg.JPG";
   clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 95%, 0 100%);
 `;
 
- const HeroBg = styled.div`
-  position: absolute;
-  display: flex;
-  justify-content: end;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  max-width: 1360px;
-  overflow: hidden;
-  padding: 0 30px;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-
-  @media (max-width: 960px) {
-    justify-content: center;
-    padding: 0 0px;
-  }
-`;
 
 const HeroInnerContainer = styled.div`
   position: relative;
@@ -208,9 +185,6 @@ const HeroSection = () => {
   return (
       <div id="about">
           <HeroContainer>
-              <HeroBg>
-               
-              </HeroBg>
               <HeroInnerContainer >
                   <HeroLeftContainer id="Left">
                       <Title>Hi, I am <br /> {Bio.name}</Title>
