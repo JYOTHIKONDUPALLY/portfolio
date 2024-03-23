@@ -204,7 +204,7 @@ export const projects=[
             tags: ["node js", "mongodb", "Express js", "Postman"],
             category: "backend",
             github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
-            Link: "https://jyothi-qtrip-dynamic.netlify.app/",
+            Link: "https://6519119211d6341f2fa7990f--qkart-frontend-ecommerce-website.netlify.app/",
           },
           {
             id: 4,
@@ -223,7 +223,7 @@ export const projects=[
           {
             id: 5,
             title: "Qtify",
-            date: "septemebr 2023",
+            date: "septemeber 2023",
             description:
               "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface. ",
             image:
@@ -232,5 +232,19 @@ export const projects=[
             category: "frontend",
             github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
             Link: "https://jyothi-qtrip-dynamic.netlify.app/",
-          },]
+          },
+          {
+            id: 6,
+            title: "CountDownTimer",
+            date: "March 2024",
+            description:
+              "A countdown timer that tell the remaing time for the event. ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f5c1998d-d5ae-401b-9874-3a623ac95129.png",
+            tags: ["JavaScript","Conditional Rendering","Event Handling","HTML","CSS", "Responsive Design"],
+            category: "frontend",
+            github: "https://github.com/JYOTHIKONDUPALLY/countdownTimer",
+            Link: "https://countdown-timer-2d15ozxp7-annem-jyothis-projects.vercel.app/?",
+          },
+        ]
     
