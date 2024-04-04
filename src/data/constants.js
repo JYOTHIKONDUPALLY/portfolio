@@ -220,21 +220,21 @@ export const projects=[
             Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
             
           },
+          // {
+          //   id: 5,
+          //   title: "Qtify",
+          //   date: "septemeber 2023",
+          //   description:
+          //     "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface. ",
+          //   image:
+          //     "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f5c1998d-d5ae-401b-9874-3a623ac95129.png",
+          //   tags: ["Bootstrap","JavaScript","Conditional Rendering","Event Handling","HTML","CSS","REST","ES6", "Responsive Design", "swiper"],
+          //   category: "frontend",
+          //   github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
+          //   Link: "https://jyothi-qtrip-dynamic.netlify.app/",
+          // },
           {
             id: 5,
-            title: "Qtify",
-            date: "septemeber 2023",
-            description:
-              "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface. ",
-            image:
-              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f5c1998d-d5ae-401b-9874-3a623ac95129.png",
-            tags: ["Bootstrap","JavaScript","Conditional Rendering","Event Handling","HTML","CSS","REST","ES6", "Responsive Design", "swiper"],
-            category: "frontend",
-            github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
-            Link: "https://jyothi-qtrip-dynamic.netlify.app/",
-          },
-          {
-            id: 6,
             title: "CountDownTimer",
             date: "March 2024",
             description:
