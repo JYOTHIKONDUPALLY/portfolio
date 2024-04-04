@@ -165,7 +165,7 @@ export const projects=[
             tags: ["React Js", "React-Router", "Material UI", "React Hooks", "Form", "Responsive Design"],
             category: "frontend",
             github: "https://github.com/JYOTHIKONDUPALLY/Ecommmerce-Website",
-            Link: "https://6519119211d6341f2fa7990f--qkart-frontend-ecommerce-website.netlify.app/",
+            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
           },
           {
             id: 1,
@@ -204,7 +204,7 @@ export const projects=[
             tags: ["node js", "mongodb", "Express js", "Postman"],
             category: "backend",
             github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
-            Link: "https://6519119211d6341f2fa7990f--qkart-frontend-ecommerce-website.netlify.app/",
+            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
           },
           {
             id: 4,
@@ -217,7 +217,7 @@ export const projects=[
             tags: ["React Js", "React-Router", "Material UI", "React Hooks", "Form", "Responsive Design"],
             category: "fullStack",
             github: "https://github.com/JYOTHIKONDUPALLY/Ecommmerce-Website",
-            Link: "https://6519119211d6341f2fa7990f--qkart-frontend-ecommerce-website.netlify.app/",
+            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
             
           },
           {
@@ -244,7 +244,7 @@ export const projects=[
             tags: ["JavaScript","Conditional Rendering","Event Handling","HTML","CSS", "Responsive Design"],
             category: "frontend",
             github: "https://github.com/JYOTHIKONDUPALLY/countdownTimer",
-            Link: "https://countdown-timer-2d15ozxp7-annem-jyothis-projects.vercel.app/?",
+            Link: "https://countdown-timer-ghv2wlbeb-annem-jyothis-projects.vercel.app/",
           },
         ]
     
