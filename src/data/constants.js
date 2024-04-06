@@ -156,7 +156,7 @@ export const TimeLineData = [
 export const projects=[ 
             {
             id: 0,
-            title: "KQart-frontend",
+            title: "QKart-frontend",
             date: "July 2023",
             description:
               "QKart is an e-commerce application offering a variety of products for customers to choose buy and get delivered to their required address ",
