@@ -203,8 +203,8 @@ export const projects=[
               "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
             tags: ["node js", "mongodb", "Express js", "Postman"],
             category: "backend",
-            github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
-            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
+            github: "https://github.com/JYOTHIKONDUPALLY/Ecommerce_Backend",
+            Link: "https://backend-ecommerce-website.netlify.app/products",
           },
           {
             id: 4,
@@ -246,5 +246,6 @@ export const projects=[
             github: "https://github.com/JYOTHIKONDUPALLY/countdownTimer",
             Link: "https://countdown-timer-ghv2wlbeb-annem-jyothis-projects.vercel.app/",
           },
+          
         ]
     
