@@ -274,6 +274,7 @@ export const projects = [
     Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
   },
 
+<<<<<<< HEAD
   {
     id: 5,
     title: "CountDownTimer",
@@ -319,3 +320,100 @@ export const projects = [
     Link: "https://weather-app-git-main-annem-jyothis-projects.vercel.app/",
   },
 ];
+=======
+export const projects=[ 
+            {
+            id: 0,
+            title: "QKart-frontend",
+            date: "July 2023",
+            description:
+              "QKart is an e-commerce application offering a variety of products for customers to choose buy and get delivered to their required address ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
+            tags: ["React Js", "React-Router", "Material UI", "React Hooks", "Form", "Responsive Design"],
+            category: "frontend",
+            github: "https://github.com/JYOTHIKONDUPALLY/Ecommmerce-Website",
+            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
+          },
+          {
+            id: 1,
+            title: "Qtrip",
+            date: "April 2023",
+            description:
+              "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.  ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/0ba0c306-851a-451e-89bb-623289fca9a3.png",
+            tags: ["Bootstrap","JavaScript","Conditional Rendering","Event Handling","HTML","CSS","REST","ES6", "Responsive Design"],
+            category: "frontend",
+            github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
+            Link: "https://jyothi-qtrip-dynamic.netlify.app/",
+          },
+          {
+            id: 2,
+            title: "Xboard",
+            date: "May-June 2023",
+            description:
+              "XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f7dfc8ad-a174-4d2b-8af7-c1ff1e1e8719.png",
+            tags: ["HTML", "Css","Bootstrap","JavaScript","DOM Manipulation","JSON","REST","ES6", "Netlify"],
+            category: "frontend",
+            github: "https://github.com/JYOTHIKONDUPALLY/jyothikondupally-ME_BUILDOUT_XBOARD",
+            Link: "https://chipper-dragon-c5e7d0.netlify.app/",
+          },
+          {
+            id: 3,
+            title: "Qkart-backend",
+            date: "dec 2023",
+            description:
+              "Build the complete set of REST APIs for an E-commerce application, Creating user account and access tokens for registration of new user, Authenticating user to allow login, Adding products to cart, Reading and updating users shipping address, Checking out products in user cart",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
+            tags: ["node js", "mongodb", "Express js", "Postman"],
+            category: "backend",
+            github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
+            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
+          },
+          {
+            id: 4,
+            title: "KQart",
+            date: "mar 2024",
+            description:
+              "QKart is an e-commerce application offering a variety of products for customers to choose buy and get delivered to their required address ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/e6fb82a2-423d-4f62-9962-f19f2f81fa8c.png",
+            tags: ["React Js", "React-Router", "Material UI", "React Hooks", "Form", "Responsive Design"],
+            category: "fullStack",
+            github: "https://github.com/JYOTHIKONDUPALLY/Ecommmerce-Website",
+            Link: "https://jyothikondupally-me-qkart-frontend-v2-master-pz19u6494.vercel.app/",
+            
+          },
+          // {
+          //   id: 5,
+          //   title: "Qtify",
+          //   date: "septemeber 2023",
+          //   description:
+          //     "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface. ",
+          //   image:
+          //     "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f5c1998d-d5ae-401b-9874-3a623ac95129.png",
+          //   tags: ["Bootstrap","JavaScript","Conditional Rendering","Event Handling","HTML","CSS","REST","ES6", "Responsive Design", "swiper"],
+          //   category: "frontend",
+          //   github: "https://github.com/CrioDo/jyothikondupally-ME_QTRIPDYNAMIC",
+          //   Link: "https://jyothi-qtrip-dynamic.netlify.app/",
+          // },
+          {
+            id: 5,
+            title: "CountDownTimer",
+            date: "March 2024",
+            description:
+              "A countdown timer that tell the remaing time for the event. ",
+            image:
+              "https://crio-directus-assets.s3.ap-south-1.amazonaws.com/f5c1998d-d5ae-401b-9874-3a623ac95129.png",
+            tags: ["JavaScript","Conditional Rendering","Event Handling","HTML","CSS", "Responsive Design"],
+            category: "frontend",
+            github: "https://github.com/JYOTHIKONDUPALLY/countdownTimer",
+            Link: "https://countdown-timer-ghv2wlbeb-annem-jyothis-projects.vercel.app/",
+          },
+        ]
+    
+>>>>>>> 03fcbd60bf964405170561feae1fcc47f0254049
