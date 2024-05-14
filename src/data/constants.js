@@ -299,17 +299,15 @@ export const projects = [
     date: "April 2024",
     description:
       "A weather forcast app aim to provide the weather forcast of the user location and anyother location in the world. User friedly App with hourly and weekly forcast ",
-    image: "../images/project.png",
+    image:
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/project.png?raw=true",
     tags: [
       "Material ui",
       "JavaScript",
-      "Conditional Rendering",
       "Event Handling",
       "CSS",
       "REST",
-      "ES6",
-      "Responsive Design",
-      "OpenWeather",
+      "OpenWeatherMap",
       "React Js",
       "React router dom",
     ],
