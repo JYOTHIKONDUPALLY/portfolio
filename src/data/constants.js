@@ -322,7 +322,7 @@ export const projects = [
     description:
       "harnessed the power of WebGL fluid simulation to create mesmerizing smoke effects that elevate the visual appeal of the website. This cutting-edge technology enables to deliver a dynamic and immersive user experience, setting the site apart from the rest.",
     image:
-      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/Screenshot%202024-05-22%20224253.png",
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/Screenshot%202024-05-22%20224253.png?raw=true",
     tags: ["Webgl Fluid Stimulation", "JavaScript", "CSS", "React Js"],
     category: "frontend",
     github: "https://github.com/JYOTHIKONDUPALLY/envato-project",
