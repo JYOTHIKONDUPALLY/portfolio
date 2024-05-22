@@ -315,4 +315,17 @@ export const projects = [
     github: "https://github.com/JYOTHIKONDUPALLY/weather-app",
     Link: "https://weather-app-git-main-annem-jyothis-projects.vercel.app/",
   },
+  {
+    id: 7,
+    title: "Envato",
+    date: "May 2024",
+    description:
+      "harnessed the power of WebGL fluid simulation to create mesmerizing smoke effects that elevate the visual appeal of the website. This cutting-edge technology enables to deliver a dynamic and immersive user experience, setting the site apart from the rest.",
+    image:
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/project.png?raw=true",
+    tags: ["Webgl Fluid Stimulation", "JavaScript", "CSS", "React Js"],
+    category: "frontend",
+    github: "https://github.com/JYOTHIKONDUPALLY/envato-project",
+    Link: "https://envato-project-delta.vercel.app/",
+  },
 ];
