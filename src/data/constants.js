@@ -335,7 +335,7 @@ export const projects = [
     description:
       "The inventory dashboard is a React-based web application designed for efficient product management, order processing, and inventory tracking, offering a user-friendly interface and seamless user experience.Use Username:user and password:password to check out the project",
     image:
-      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/Screenshot%202024-05-22%20224253.png?raw=true",
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/Screenshot%202024-06-03%20212550.png?raw=true",
     tags: [
       "React Js",
       "JavaScript",
