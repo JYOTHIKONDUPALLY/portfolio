@@ -328,4 +328,24 @@ export const projects = [
     github: "https://github.com/JYOTHIKONDUPALLY/envato-project",
     Link: "https://envato-project-delta.vercel.app/",
   },
+  {
+    id: 8,
+    title: "Inventory Project",
+    date: "May 2024-June 2024",
+    description:
+      "The inventory dashboard is a React-based web application designed for efficient product management, order processing, and inventory tracking, offering a user-friendly interface and seamless user experience.Use Username:user and password:password to check out the project",
+    image:
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/Screenshot%202024-05-22%20224253.png?raw=true",
+    tags: [
+      "React Js",
+      "JavaScript",
+      "CSS",
+      "React Router Dom",
+      "Material UI",
+      "Responsivenes",
+    ],
+    category: "frontend",
+    github: "https://github.com/JYOTHIKONDUPALLY/Admin-Dashboard",
+    Link: "https://admin-dashboard-one-brown.vercel.app/login",
+  },
 ];
