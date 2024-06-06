@@ -352,9 +352,12 @@ export const projects = [
     id: 9,
     title: "edzorb campagin",
     date: "May 2024",
-    image: "file:///C:/Users/amar/Downloads/edzorb%20law%20template.html",
+    image:
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/edzorb-law-template.jpg?raw=true",
     tags: ["canva", "mailChimp"],
     category: "design",
-    Link: "",
+    github:
+      "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/edzorb%20law%20template.html",
+    Link: "https://github.com/JYOTHIKONDUPALLY/portfolio/blob/main/src/images/edzorb-law-template.jpg?raw=true",
   },
 ];
