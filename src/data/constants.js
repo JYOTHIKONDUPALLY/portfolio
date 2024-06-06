@@ -348,4 +348,13 @@ export const projects = [
     github: "https://github.com/JYOTHIKONDUPALLY/Admin-Dashboard",
     Link: "https://admin-dashboard-one-brown.vercel.app/login",
   },
+  {
+    id: 9,
+    title: "edzorb campagin",
+    date: "May 2024",
+    image: "file:///C:/Users/amar/Downloads/edzorb%20law%20template.html",
+    tags: ["canva", "mailChimp"],
+    category: "design",
+    Link: "",
+  },
 ];
