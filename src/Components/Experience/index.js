@@ -131,30 +131,32 @@ padding:18px 36px;
 
 const Experience = () => {
   return (
+    <>
+    {experiences.map((experience)=>{
   <Container id="experience">
     <Wrapper>
         <Title>Experience</Title>
         <Description>My work experience in different companies, in different positions...</Description>
       <Card>
-        <Image src={experiences.img} alt="company image"/>
+        <Image src={experience.img} alt="company image"/>
         <Body>
-        <Role>{experiences.role}</Role>
-        <Company>{experiences.company}</Company>
-        <Date>{experiences.date}</Date>
-        <Des>{experiences.desc}</Des>
+        <Role>{experience.role}</Role>
+        <Company>{experience.company}</Company>
+        <Date>{experience.date}</Date>
+        <Des>{experience.desc}</Des>
         <Skills>
             <b>Skills:</b>
             <ItemWrapper>
-                {experiences?.skills?.map((skill, index)=>
+                {experience?.skills?.map((skill, index)=>
                 <Skill>•{skill}</Skill>)}
             </ItemWrapper>
         </Skills>
         </Body>
-      
-
       </Card>
     </Wrapper>
   </Container>
+  })}
+</>
   )
 }
 
