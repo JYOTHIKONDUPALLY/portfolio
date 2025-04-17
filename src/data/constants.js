@@ -126,14 +126,9 @@ export const experiences = [
     role: "Associate Quality Engineer",
     company: "TCL CSOT",
     date: "Aug 2019 - Aug 2021",
-    desc: "Design and implement comprehensive testing strategies to ensure high-quality software.Collaborate with development teams to troubleshoot and resolve issues effectively.Analyze test results and metrics to drive continuous improvement in quality.Utilize various testing tools and methodologies to deliver reliable, high-performance solutions",
+    desc: "I monitored product quantities and identified defective items during warehouse operations. I managed the control of shipping for defective products, including performing hold and release procedures. I conducted quality control audits on the supply chain to ensure continuity of raw materials and compliance standards. Additionally, I utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
     skills: [
-      "jest",
-      "manual testing",
-      "functional testing",
-      "Git",
-      "Docker",
-      "Postman",
+      "Quality Control & Auditing", "Warehouse Operations", "Defective Product Handling", "Statistical Process Control (SPC)", "ISO 9000 Standards", "Supply Chain Verification", "Process Improvement", "Inventory Management".
     ],
   },
   {
@@ -141,7 +136,7 @@ export const experiences = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAM1BMVEVHcEztKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy/tKy8m5d72AAAAEXRSTlMA0//84OzECod2aBejJDhOsJ0qe6cAAACMSURBVHgBtdEJCsQgEETRSrnEuN//tEPLoAnRwMDksQlfRFucbFRKUWNGUzy17edm3mrqodH+tW0URpa7Oy48Apso1fIiAYmNk0obUsqjAXnUkvslWNCUWmOMVXaOsz0m3Djnpoz7daVGEQJnr7YUZvEDmp1ZjFEo3O38CpgIYzATWVrGQpGhLfkDZx+11ATdgw/63gAAAABJRU5ErkJggg==",
     role: "Associate frontend Engineer",
     company: "kuro Gaming",
-    date: "july 2023 - Aug 2024",
+    date: "june 2024 - Aug 2024",
     desc: "Worked on frontend features related to ecommerce website . Worked on optimization of  Page loading through lazy loading and Image optimization through next js caching. Build a Static website and Search engine optimization through regular monitoring the website response in google console, adjusting keywords increase google ranking",
     skills: [
       "ReactJS",
@@ -170,7 +165,8 @@ export const experiences = [
       "Laravel",
       "JavaScript",
       "REST API",
-      "Next js",
+      "Next js"
+      "jest",
     ],
   },
 ];
