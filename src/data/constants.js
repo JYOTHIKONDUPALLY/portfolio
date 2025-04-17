@@ -121,13 +121,23 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 2,
-    img: "https://static.brandirectory.com/logos/csot001_tcl_csot_logo_new.jpg",
-    role: "Associate Quality Engineer",
-    company: "TCL CSOT",
-    date: "Aug 2019 - Aug 2021",
-    desc: "I monitored product quantities and identified defective items during warehouse operations. I managed the control of shipping for defective products, including performing hold and release procedures. I conducted quality control audits on the supply chain to ensure continuity of raw materials and compliance standards. Additionally, I utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
-    skills: ["QC", "Warehouse Operations", "auditing", "spc", "ISO 9000"],
+    id: 0,
+    img: "https://static.wixstatic.com/media/6ab977_aa436837a70a421ebcce2ca2fa3421db~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/kb%20tile.png",
+    role: "Associate FullStack Engineer",
+    company: "Kristalball",
+    date: "Aug 2024 - current",
+    desc: "Developed app features for inventory management and POS using React Native, Laravel, and MySQL. Optimized SQL queries with pagination and indexing for better performance. Improved API response by running background jobs and refining code.",
+    skills: [
+      "ReactJS",
+      "PHP",
+      "React Native",
+      "MySql",
+      "Laravel",
+      "JavaScript",
+      "REST API",
+      "Next js",
+      "jest",
+    ],
   },
   {
     id: 1,
@@ -148,24 +158,15 @@ export const experiences = [
       "MongoDB",
     ],
   },
+
   {
-    id: 0,
-    img: "https://static.wixstatic.com/media/6ab977_aa436837a70a421ebcce2ca2fa3421db~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/kb%20tile.png",
-    role: "Associate FullStack Engineer",
-    company: "Kristalball",
-    date: "Aug 2024 - current",
-    desc: "Developed app features for inventory management and POS using React Native, Laravel, and MySQL. Optimized SQL queries with pagination and indexing for better performance. Improved API response by running background jobs and refining code.",
-    skills: [
-      "ReactJS",
-      "PHP",
-      "React Native",
-      "MySql",
-      "Laravel",
-      "JavaScript",
-      "REST API",
-      "Next js",
-      "jest",
-    ],
+    id: 2,
+    img: "https://static.brandirectory.com/logos/csot001_tcl_csot_logo_new.jpg",
+    role: "Associate Quality Engineer",
+    company: "TCL CSOT",
+    date: "Aug 2019 - Aug 2021",
+    desc: "I monitored product quantities and identified defective items during warehouse operations. I managed the control of shipping for defective products, including performing hold and release procedures. I conducted quality control audits on the supply chain to ensure continuity of raw materials and compliance standards. Additionally, I utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
+    skills: ["QC", "Warehouse Operations", "auditing", "spc", "ISO 9000"],
   },
 ];
 
