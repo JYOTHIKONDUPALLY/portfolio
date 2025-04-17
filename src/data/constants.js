@@ -165,7 +165,7 @@ export const experiences = [
     role: "Associate Quality Engineer",
     company: "TCL CSOT",
     date: "Aug 2019 - Aug 2021",
-    desc: "I monitored product quantities and identified defective items during warehouse operations. I managed the control of shipping for defective products, including performing hold and release procedures. I conducted quality control audits on the supply chain to ensure continuity of raw materials and compliance standards. Additionally, I utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
+    desc: "Monitored product quantities and identified defective items. Managed the control of shipping for defective products. Conducted quality control audits. Utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
     skills: ["QC", "Warehouse Operations", "auditing", "spc", "ISO 9000"],
   },
 ];
