@@ -165,8 +165,8 @@ export const experiences = [
       "Laravel",
       "JavaScript",
       "REST API",
-      "Next js"
-      "jest",
+      "Next js",
+      "jest"
     ],
   },
 ];
