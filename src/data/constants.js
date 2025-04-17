@@ -128,7 +128,14 @@ export const experiences = [
     date: "Aug 2019 - Aug 2021",
     desc: "I monitored product quantities and identified defective items during warehouse operations. I managed the control of shipping for defective products, including performing hold and release procedures. I conducted quality control audits on the supply chain to ensure continuity of raw materials and compliance standards. Additionally, I utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
     skills: [
-      "Quality Control & Auditing", "Warehouse Operations", "Defective Product Handling", "Statistical Process Control (SPC)", "ISO 9000 Standards", "Supply Chain Verification", "Process Improvement", "Inventory Management".
+      "Quality Control & Auditing",
+      "Warehouse Operations",
+      "Defective Product Handling",
+      "Statistical Process Control (SPC)",
+      "ISO 9000 Standards",
+      "Supply Chain Verification",
+      "Process Improvement",
+      "Inventory Management",
     ],
   },
   {
@@ -166,7 +173,7 @@ export const experiences = [
       "JavaScript",
       "REST API",
       "Next js",
-      "jest"
+      "jest",
     ],
   },
 ];
