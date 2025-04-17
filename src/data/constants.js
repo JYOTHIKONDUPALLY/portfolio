@@ -121,22 +121,13 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 0,
+    id: 2,
     img: "https://static.brandirectory.com/logos/csot001_tcl_csot_logo_new.jpg",
     role: "Associate Quality Engineer",
     company: "TCL CSOT",
     date: "Aug 2019 - Aug 2021",
     desc: "I monitored product quantities and identified defective items during warehouse operations. I managed the control of shipping for defective products, including performing hold and release procedures. I conducted quality control audits on the supply chain to ensure continuity of raw materials and compliance standards. Additionally, I utilized statistical process control (SPC) methods to analyze manufacturing data and applied improvements aligned with ISO 9000 standards.",
-    skills: [
-      "Quality Control & Auditing",
-      "Warehouse Operations",
-      "Defective Product Handling",
-      "Statistical Process Control (SPC)",
-      "ISO 9000 Standards",
-      "Supply Chain Verification",
-      "Process Improvement",
-      "Inventory Management",
-    ],
+    skills: ["QC", "Warehouse Operations", "auditing", "spc", "ISO 9000"],
   },
   {
     id: 1,
@@ -158,7 +149,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 0,
     img: "https://static.wixstatic.com/media/6ab977_aa436837a70a421ebcce2ca2fa3421db~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/kb%20tile.png",
     role: "Associate FullStack Engineer",
     company: "Kristalball",
